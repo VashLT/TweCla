@@ -37,6 +37,6 @@ The models used in the project are:
 ## Links
 The original **notebook** can be found [here](https://colab.research.google.com/drive/1tPJ3_ma_4Yjk9omr9lp4ur1tLeBTQytx?usp=sharing).
 
-The **video** can be found [here](https://www.youtube.com/watch?v=lj5GXZaE7qs).
+The **video** can be found [here](https://youtu.be/1TsA4zPwmjg).
 
 The **repository** can be found [here](https://github.com/VashLT/TweCla).
